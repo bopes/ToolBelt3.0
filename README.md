@@ -23,17 +23,16 @@ Using the app users will be able to:
 * rate borrowers
 * flag users
 
-## Schema
-
-
-
 ## Page List
 * Launch
 * Login (OAUTH)
 * Home page
 
-* Tool search - list view
-* Tool search - map view
+* Tool search - results list view
+* Tool search - results map view
+
+* My account
+* Edit address
 
 * My ToolBelt
 * Add a tool
@@ -43,7 +42,6 @@ Using the app users will be able to:
 * Rate user
 * Flag user
 
-* My account
-* Edit address
+
 
 
