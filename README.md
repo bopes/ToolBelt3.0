@@ -23,25 +23,26 @@ Using the app users will be able to:
 * rate borrowers
 * flag users
 
-## Page List
+## App Views
+#### Session
 * Launch
 * Login (OAUTH)
 * Home page
 
+#### Search Results
 * Tool search - results list view
 * Tool search - results map view
 
+#### User Account
 * My account
 * Edit address
 
+#### My Listed Tools
 * My ToolBelt
 * Add a tool
 
+#### Chat & User Feedback
 * My messages
 * Chat page
 * Rate user
 * Flag user
-
-
-
-
